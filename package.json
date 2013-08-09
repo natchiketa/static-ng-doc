@@ -1,0 +1,17 @@
+{
+  "name": "curlng",
+  "description": "",
+  "version": "0.0.0",
+  "main": "curlng.js",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha --no-colors --reporter spec"
+  },
+  "dependencies": {
+    "request": "~2.26.0",
+    "handlebars": "~1.0.12"
+  }
+}
