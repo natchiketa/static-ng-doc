@@ -1,8 +1,8 @@
 {
-  "name": "curlng",
-  "description": "",
+  "name": "static-ng-doc",
+  "description": "Generate a basic static page with links to AngularJS API doc partials.",
   "version": "0.0.0",
-  "main": "curlng.js",
+  "main": "static-ng-doc.js",
   "devDependencies": {
     "chai": "*",
     "mocha": "*"
