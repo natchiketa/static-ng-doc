@@ -1,4 +1,4 @@
-/*! curlng v0.0.0 - MIT license */
+/*! static-ng-doc v0.0.0 - MIT license */
 
 'use strict';
 

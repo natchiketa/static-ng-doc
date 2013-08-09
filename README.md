@@ -2,7 +2,11 @@
 
 Fetches the current AngularJS API docs and renders links to each HTML partial as a simple static page.
 
-Just run from repo root:
+First install dependencies:
+
+	npm install
+
+Then run from repo root:
 
     node static-ng-doc.js
 
